@@ -1,0 +1,38 @@
+/* p{
+    font-size: xx-large;
+    color: blue;
+    background-color: black;
+    padding: 5%;
+    text-align: center;
+    width: 500px;
+}
+
+@media screen () {
+    
+} */
+
+
+
+* {
+    background-color: rgb(208, 237, 236);
+}
+nav{
+    background-color: rgb(30, 33, 33);
+}
+label{
+    background-color: rgb(30, 33, 33);
+    font-size: x-large;
+    padding: 0 675px;
+    color: rgb(231, 235, 236);
+    position: absolute;
+}
+div{
+    background-color: rgb(30, 33, 33);
+}
+a{
+    background-color: rgb(30, 33, 33);
+}
+.search{
+    background-color: rgb(208, 237, 236);
+    padding: 50px 200px 0px 550px;
+}
